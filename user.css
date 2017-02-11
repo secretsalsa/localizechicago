@@ -1,0 +1,14 @@
+#wrapper{
+		background-image:url(images/dark-tint.png), url("images/bridge.jpg");
+		background-size: cover;
+}
+
+.logo{
+	height: 100%;
+	width: 1%;
+}
+
+.pix{
+	height: 10%;
+	width: 10%;
+}
